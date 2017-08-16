@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-phonedail/01-phonedail.iml" filepath="$PROJECT_DIR$/01-phonedail/01-phonedail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_按钮的第二种点击事件/02_按钮的第二种点击事件.iml" filepath="$PROJECT_DIR$/02_按钮的第二种点击事件/02_按钮的第二种点击事件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_login/03_login.iml" filepath="$PROJECT_DIR$/03_login/03_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_将数据保存到sd卡中/04_将数据保存到sd卡中.iml" filepath="$PROJECT_DIR$/04_将数据保存到sd卡中/04_将数据保存到sd卡中.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-获取sdk卡总大小和可用空间/05-获取sdk卡总大小和可用空间.iml" filepath="$PROJECT_DIR$/05-获取sdk卡总大小和可用空间/05-获取sdk卡总大小和可用空间.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-文件的权限/06-文件的权限.iml" filepath="$PROJECT_DIR$/06-文件的权限/06-文件的权限.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-login_sp/07-login_sp.iml" filepath="$PROJECT_DIR$/07-login_sp/07-login_sp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-生成xml文件/08-生成xml文件.iml" filepath="$PROJECT_DIR$/08-生成xml文件/08-生成xml文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-解析xml文件/09-解析xml文件.iml" filepath="$PROJECT_DIR$/09-解析xml文件/09-解析xml文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-创建数据库/10-创建数据库.iml" filepath="$PROJECT_DIR$/10-创建数据库/10-创建数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-使用谷歌封装的api增删改查/11-使用谷歌封装的api增删改查.iml" filepath="$PROJECT_DIR$/11-使用谷歌封装的api增删改查/11-使用谷歌封装的api增删改查.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-transition/12-transition.iml" filepath="$PROJECT_DIR$/12-transition/12-transition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeiMaStudy_Primary.iml" filepath="$PROJECT_DIR$/HeiMaStudy_Primary.iml" />
+    </modules>
+  </component>
+</project>
